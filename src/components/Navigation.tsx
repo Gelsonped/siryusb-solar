@@ -51,23 +51,15 @@ export default function Navigation() {
         <div className="flex items-center justify-between h-16 md:h-20">
           <a
             href="/"
-            className="flex items-center gap-4 text-primary font-display font-bold text-xl z-50"
+            className="flex items-center text-primary font-display font-bold text-xl z-50"
             aria-label="SiryusB Solar - Início"
           >
             <img
-              src="/images/optimized/logo-sym-400.png"
+              src="/images/optimized/logo-completo-320.png"
               alt="SiryusB Solar"
-              width={56}
-              height={56}
-              className="w-14 h-14"
-              decoding="async"
-            />
-            <img
-              src="/images/optimized/logo-word-400.png"
-              alt=""
-              width={180}
-              height={38}
-              className="hidden sm:block w-auto h-9"
+              width={200}
+              height={50}
+              className="w-auto h-12 sm:h-14"
               decoding="async"
             />
           </a>

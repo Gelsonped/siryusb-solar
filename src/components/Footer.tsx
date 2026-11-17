@@ -51,9 +51,8 @@ export default function Footer() {
       <div className="container py-16">
         <div className="grid grid-cols-2 md:grid-cols-4 gap-8 mb-12">
           <div className="md:col-span-2 lg:col-span-1">
-            <Link href="/" className="flex items-center gap-4 font-display font-bold text-xl mb-4" aria-label="SiryusB Solar - Início">
-              <img src="/images/optimized/logo-sym-400.png" alt="SiryusB Solar" width={56} height={56} className="w-14 h-14" decoding="async" />
-              <img src="/images/optimized/logo-word-400.png" alt="" width={180} height={38} className="w-auto h-9" decoding="async" />
+            <Link href="/" className="flex items-center font-display font-bold text-xl mb-4" aria-label="SiryusB Solar - Início">
+              <img src="/images/optimized/logo-completo-320.png" alt="SiryusB Solar" width={200} height={50} className="w-auto h-12" decoding="async" />
             </Link>
             <p className="text-white/70 text-sm mb-4 max-w-xs">
               Projeto, instalação e homologação de energia solar fotovoltaica em Peruíbe e todo o Estado de São Paulo.
