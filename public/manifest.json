@@ -1,0 +1,24 @@
+{
+  "name": "SiryusB Solar - Energia Solar em Peruíbe e SP",
+  "short_name": "SiryusB Solar",
+  "description": "Projeto, instalação e homologação de energia solar fotovoltaica. Simule sua economia.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1d1649",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/images/optimized/logo-sym-200.png",
+      "sizes": "200x200",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/images/optimized/logo-sym-400.png",
+      "sizes": "400x400",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
