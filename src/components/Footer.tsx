@@ -52,7 +52,7 @@ export default function Footer() {
         <div className="grid grid-cols-2 md:grid-cols-4 gap-8 mb-12">
           <div className="md:col-span-2 lg:col-span-1">
             <Link href="/" className="flex items-center font-display font-bold text-xl mb-4" aria-label="SiryusB Solar - Início">
-              <img src="/images/optimized/logo-completo-400.png" alt="SiryusB Solar" width={280} height={70} className="w-auto h-16" decoding="async" />
+              <img src="/images/optimized/logo-completo-800.png" alt="SiryusB Solar" width={560} height={140} className="w-auto h-28" decoding="async" />
             </Link>
             <p className="text-white/70 text-sm mb-4 max-w-xs">
               Projeto, instalação e homologação de energia solar fotovoltaica em Peruíbe e todo o Estado de São Paulo.

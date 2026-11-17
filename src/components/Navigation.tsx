@@ -55,11 +55,11 @@ export default function Navigation() {
             aria-label="SiryusB Solar - Início"
           >
             <img
-              src="/images/optimized/logo-completo-400.png"
+              src="/images/optimized/logo-completo-800.png"
               alt="SiryusB Solar"
-              width={280}
-              height={70}
-              className="w-auto h-16 sm:h-20"
+              width={560}
+              height={140}
+              className="w-auto h-28 sm:h-36"
               decoding="async"
             />
           </a>
